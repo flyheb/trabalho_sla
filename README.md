@@ -30,6 +30,7 @@ Este projeto realiza o monitoramento de umidade do solo, umidade do ar e tempera
 - [`ESPAsyncWebServer` by lacamera (v3.1.0)](https://github.com/me-no-dev/ESPAsyncWebServer)
 - [`AsyncTCP` by dvarrel (v1.1.4)](https://github.com/dvarrel/AsyncTCP)
 - [`DHT sensor library` by Adafruit (v1.4.6)](https://github.com/adafruit/DHT-sensor-library)
+- [`esp32 by Espressif Systems` (<= v2.0.6)](https://github.com/espressif/arduino-esp32)
 
 ---
 
@@ -54,6 +55,7 @@ A interface exibe:
 |-----------------------|:----------:|
 | Sensor DHT11 (dados)  |   GPIO 4   |
 | Sensor Umidade Solo   |   GPIO 34  |
+| Bomba d'água          |   GPIO 32  |
 
 ---
 
